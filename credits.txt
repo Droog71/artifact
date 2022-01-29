@@ -10,7 +10,7 @@ Artifact:
   --Reality anchor sound: CC-BY 3.0, https://freesound.org/people/chipfork71/sounds/72639/
   --Ambient sounds:
 		1: CC-BY 3.0, https://freesound.org/people/Nate_the_late/sounds/612923/
-		2: CC-BY-NC 3.0, https://freesound.org/people/Robinhood76/sounds/344799/
+		2: CC0, https://freesound.org/people/BurghRecords/sounds/390539/
 		3: CC-BY 3.0, https://freesound.org/people/BloodPixelHero/sounds/592683/
 		4: CC-BY 3.0, https://freesound.org/people/BloodPixelHero/sounds/501674/
 	

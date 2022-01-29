@@ -86,7 +86,6 @@ minetest.register_globalstep(function(dtime)
         local rand = math.random(1,4)
         local sound = "ambient_" .. rand
         minetest.sound_play(sound, {gain = 0.5})
-        minetest.chat_send_all("progress: " .. artifact_progress)
         if artifact_progress >= 75 then
             for _,player in pairs(minetest.get_connected_players()) do
                 local x_dif = math.random(10, 60)
