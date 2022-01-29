@@ -1,0 +1,181 @@
+Artifact:
+	--Author: Droog71
+	--Code License: AGPLv3
+	--Trees:
+		--Cube tree: CC-BY 3.0, https://sketchfab.com/3d-models/stylized-tree-03-clean-d3af590a640b40ca98c2d669e83182e8
+		--Pine tree: CC BY 4.0, https://sketchfab.com/3d-models/pine-tree-proto-series-free-08014e92a59244c992884091218230b8
+  	--The images for ores, lumps, ingots, basic materials and tools are from the artelhum texture pack, and are licensed MIT. https://content.minetest.net/packages/AndrOn/artelhum/
+	--Eating sound: CC-BY-3.0, http://www.freesound.org/people/sonictechtonic/sounds/242215/
+  --Rift sound: CC-BY 3.0, https://freesound.org/people/InspectorJ/sounds/411231/
+  --Reality anchor sound: CC-BY 3.0, https://freesound.org/people/chipfork71/sounds/72639/
+	
+	--Various sounds such as footsteps and digging.
+			Mito551 (sounds) (CC BY-SA 3.0):
+			  default_dig_crumbly.*.ogg
+			  default_dig_dig_immediate.ogg
+			  default_dig_oddly_breakable_by_hand.ogg
+			  default_dug_node.*.ogg
+			  default_place_node.*.ogg
+			  default_place_node_hard.*.ogg
+			  default_wood_footstep.1.ogg
+			  default_wood_footstep.2.ogg
+			  default_dirt_footstep.1.ogg
+			  default_dirt_footstep.2.ogg
+
+			Metal sounds:
+			  default_dig_metal.ogg - yadronoff - CC-BY-3.0
+			  - https://www.freesound.org/people/yadronoff/sounds/320397/
+			  default_dug_metal.*.ogg - Iwan Gabovitch - qubodup - CC0
+			  - http://opengameart.org/users/qubodup
+			  default_metal_footstep.*.ogg - (CC0 1.0) - CC0 1.0
+			  - https://freesound.org/people/mypantsfelldown/sounds/398937/
+			  default_place_node_metal.*.ogg - Ogrebane - CC0
+			  - http://opengameart.org/content/wood-and-metal-sound-effects-volume-2
+
+			Tool breaking sounds added by sofar: CC-BY-3.0
+			  default_tool_breaks.* - http://www.freesound.org/people/HerbertBoland/sounds/33206/
+
+			blukotek (CC0 1.0):
+			https://www.freesound.org/people/blukotek/sounds/251660/
+			  default_dig_snappy.ogg
+
+			sonictechtonic (CC BY 3.0):
+			https://www.freesound.org/people/sonictechtonic/sounds/241872/
+			  player_damage.ogg
+
+			Benboncan (CC BY 3.0):
+			https://freesound.org/people/Benboncan/sounds/71823/
+			  default_dig_cracky.*.ogg
+
+			Erdie (CC BY 3.0):
+			https://freesound.org/people/Erdie/sounds/41579/
+			  default_hard_footstep.*.ogg
+
+  
+Basic Materials Mod
+	-- by Vanessa Dannenberg, modified by Droog71
+	--Code License: LGPL 3.0
+
+Crafting Guide Plus
+	--Code is licensed under the GNU LGPL v3.0. Images and other media are CC BY-SA 4.0 unless otherwise noted.
+
+	--The following images are from Minetest Game, and their respective licenses apply:
+
+	--cg_plus_icon_autocrafting.png           Based on default_tool_stonepick.png
+	--cg_plus_icon_clear.png                  From creative_clear_icon.png
+	--cg_plus_icon_cooking.png                From default_furnace_front_active.png
+	--cg_plus_icon_digging.png                From default_tool_stonepick.png
+	--cg_plus_icon_fuel.png                   From default_furnace_fire_fg.png
+	--cg_plus_icon_next.png                   From creative_next_icon.png
+	--cg_plus_icon_prev.png                   From creative_prev_icon.png
+	--cg_plus_icon_search.png                 From creative_search_icon.png
+
+Containers Mod
+	--Author: Droog71
+	--Code License: AGPLv3
+	--Art License: CC0
+
+Conveyors Mod
+	--Author: Droog71
+	--Code License: AGPLv3
+	--Art License: CC0
+
+Hydroponics Mod
+	--Author: Droog71
+	--Code License: AGPLv3
+	--Art License: CC0
+
+Mapgen Mod
+	--Author: Droog71
+	--Code License: AGPLv3
+
+Pipeworks Autocrafter
+	-- by Vanessa Dannenberg, modified by Droog71
+	--Code License: LGPL 3.0
+	--Art License: CC0
+
+Player API
+	--See license.txt for license information.
+
+	--Authors of source code
+	----------------------
+	--Originally by celeron55, Perttu Ahola <celeron55@gmail.com> (LGPLv2.1+)
+	--Various Minetest developers and contributors (LGPLv2.1+)
+
+	--Authors of media (textures, models and sounds)
+	----------------------------------------------
+	--stujones11 (CC BY-SA 3.0):
+	  --character.b3d
+	  --character.blend -- Both derived from a model by MirceaKitsune (CC BY-SA 3.0)
+
+	--An0n3m0us (CC BY-SA 3.0):
+	  --character.b3d
+	  --character.blend -- Player animation improvement
+
+	--celeron55, Perttu Ahola <celeron55@gmail.com> (CC BY-SA 3.0):
+	  --player.png
+	  --player_back.png
+
+	--space_sam by_philipbenr, Attribution-ShareAlike 3.0 Unported
+
+Portable Machines Mod
+	--Author: Droog71
+	--Code License: AGPLv3
+	--Art License: CC0
+	--Sounds
+		--Smelter, CC0, https://freesound.org/people/craigsmith/sounds/483311/
+		--Extruder, CC-BY 3.0, https://freesound.org/people/AlienXXX/sounds/266885/
+		--Stamper: CC-BY 3.0, https://freesound.org/people/plexelq/sounds/168925/
+		--Electric Smelter: CC-BY 3.0, https://freesound.org/people/EminYILDIRIM/sounds/540831/
+		--Autocrafter: CC0, https://freesound.org/people/freedomfightervictor/sounds/390531/
+		--Hydroponics Bay: CC-BY 3.0, https://freesound.org/people/murraysortz/sounds/192501/
+		--Ambient sounds:
+			1: CC-BY 3.0, https://freesound.org/people/Nate_the_late/sounds/612923/
+			2: CC-BY-NC 3.0, https://freesound.org/people/Robinhood76/sounds/344799/
+			3: CC-BY 3.0, https://freesound.org/people/BloodPixelHero/sounds/592683/
+			4: CC-BY 3.0, https://freesound.org/people/BloodPixelHero/sounds/501674/
+
+Portable Power Mod
+	--Author: Droog71
+	--Code License: AGPLv3
+	--Art License: CC0
+	--Sounds
+		--Generator sound: CC0, https://freesound.org/people/NXRT/sounds/587843/
+		--Power transmitter sound: CC0, https://freesound.org/people/smokinghotdog/sounds/584241/
+			
+  
+Skybox Mod
+  --Code: LGPLv2.1
+
+  --Copyright (C) 2017 - Auke Kok <sofar@foo-projects.org>
+
+  --Contributors:	
+      --sofar
+      --LoneWolfHT
+      --auouymous
+      --Maverick2797
+
+  --Artwork (textures):
+    --https://opengameart.org/content/interstellar-skybox
+	--CC-BY 3.0
+    
+SFInv
+  --Copyright (C) 2016 rubenwardy <rw@rubenwardy.com>
+  --Code License: LGPL 3.0
+  
+Wielded Light Mod
+--https://github.com/minetest-mods/wielded_light
+--License: [GPL-3](https://github.com/bell07/minetest-wielded_light/blob/master/LICENSE)
+
+--AntumMT
+--BlockySurvival
+--FaceDeer
+--lhofhansl
+--oversword
+--sfence
+--snowyu
+
+Work Lights Mod
+	--Author: Droog71
+	--Code License: AGPLv3
+	--Art License: CC0
