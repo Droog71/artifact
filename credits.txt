@@ -8,6 +8,11 @@ Artifact:
 	--Eating sound: CC-BY-3.0, http://www.freesound.org/people/sonictechtonic/sounds/242215/
   --Rift sound: CC-BY 3.0, https://freesound.org/people/InspectorJ/sounds/411231/
   --Reality anchor sound: CC-BY 3.0, https://freesound.org/people/chipfork71/sounds/72639/
+  --Ambient sounds:
+		1: CC-BY 3.0, https://freesound.org/people/Nate_the_late/sounds/612923/
+		2: CC-BY-NC 3.0, https://freesound.org/people/Robinhood76/sounds/344799/
+		3: CC-BY 3.0, https://freesound.org/people/BloodPixelHero/sounds/592683/
+		4: CC-BY 3.0, https://freesound.org/people/BloodPixelHero/sounds/501674/
 	
 	--Various sounds such as footsteps and digging.
 			Mito551 (sounds) (CC BY-SA 3.0):
@@ -89,11 +94,6 @@ Mapgen Mod
 	--Author: Droog71
 	--Code License: AGPLv3
 
-Pipeworks Autocrafter
-	-- by Vanessa Dannenberg, modified by Droog71
-	--Code License: LGPL 3.0
-	--Art License: CC0
-
 Player API
 	--See license.txt for license information.
 
@@ -129,11 +129,6 @@ Portable Machines Mod
 		--Electric Smelter: CC-BY 3.0, https://freesound.org/people/EminYILDIRIM/sounds/540831/
 		--Autocrafter: CC0, https://freesound.org/people/freedomfightervictor/sounds/390531/
 		--Hydroponics Bay: CC-BY 3.0, https://freesound.org/people/murraysortz/sounds/192501/
-		--Ambient sounds:
-			1: CC-BY 3.0, https://freesound.org/people/Nate_the_late/sounds/612923/
-			2: CC-BY-NC 3.0, https://freesound.org/people/Robinhood76/sounds/344799/
-			3: CC-BY 3.0, https://freesound.org/people/BloodPixelHero/sounds/592683/
-			4: CC-BY 3.0, https://freesound.org/people/BloodPixelHero/sounds/501674/
 
 Portable Power Mod
 	--Author: Droog71
