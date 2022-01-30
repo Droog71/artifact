@@ -27,7 +27,7 @@ function update_machine(name, pos, recipes, sound)
             if inv:contains_item("main", items[index]) then
                 local item_name = items[index]:get_name()
                 local product = recipes[item_name]
-                stack = ItemStack(product)
+                local stack = ItemStack(product)
                 stack:set_count(1)
                 if inv:add_item("main", stack) then
                     inv:remove_item("main", items[index])

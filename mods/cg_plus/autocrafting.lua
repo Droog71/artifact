@@ -81,7 +81,7 @@ cg.auto_get_craftable = function(player, craft)
 end
 
 cg.auto_craft = function(player, craft, num)
-	inv = player:get_inventory()
+	local inv = player:get_inventory()
 
 	if not inv:is_empty("craft") then
 		-- Attempt to move items to the player's main inventory.
