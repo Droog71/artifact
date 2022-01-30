@@ -79,6 +79,7 @@ minetest.register_node("artifact:rift", {
     tiles = {"rift.png"},
     drawtype = "mesh",
     mesh = "rift.obj",
+    use_texture_alpha = "clip",
     groups = {not_in_creative_inventory = 1},
     paramtype2 = "facedir",
     walkable = false
@@ -91,6 +92,7 @@ minetest.register_node("artifact:torch", {
     tiles = {"artifact_torch.png"},
     drawtype = "mesh",
     mesh = "torch.obj",
+    use_texture_alpha = "clip",
     walkable = false,
     groups = {dig_immediate=2, falling_node = 1},
     sounds = node_sound_wood_defaults(),
